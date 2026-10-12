@@ -30,7 +30,7 @@
     </tr>
     <tr>
       <th scope="row">Motorola X Style</th>
-      <td>Working on lk2nd port</td>
+      <td>Lk2nd done! Just gotta get it in the repo.</td>
       <td>Quirky bootloader, haven't built up the guts to open it up for uart.</td>
     </tr>
     <tr>
